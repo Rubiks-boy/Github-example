@@ -6,8 +6,6 @@ void anotherFunction() {
 }
 
 int main() {
-    anotherFunction();
-
     cout << "Hello world" << endl;
     return 0;
 }
