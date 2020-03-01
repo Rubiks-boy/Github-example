@@ -6,7 +6,6 @@ void anotherFunction() {
 }
 
 int main() {
-    cout << "I am making some changes that don't break the code" << endl;
-    cout << "This line is missing a semicolon and will break the code!" << endl
+    cout << "Hi world" << endl;
     return 0;
 }
